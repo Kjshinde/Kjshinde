@@ -20,8 +20,8 @@ A person-tracking rig that uses computer vision to dynamically align a camera to
 ### ⚙️ [xv6 OS Assignments](https://github.com/Kjshinde/xv6_os_assignments)
 Solutions to advanced OS assignments implemented in xv6 — covering process scheduling, memory management, and system calls in Assembly and C.
 
-### 📦 [Omnidirectional Sorting Platform](https://github.com/Kjshinde/omnidirectional-sorting-platform)
-A mechatronics project featuring an omnidirectional conveyor system capable of sorting objects in multiple directions.
+### 📦 [Edge-Federated-Node](https://github.com/Kjshinde/omnidirectional-sorting-platform)
+Decentralized machine learning system enabling local model training and secure central aggregation across edge nodes.
 
 ---
 
