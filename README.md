@@ -20,7 +20,7 @@ A person-tracking rig that uses computer vision to dynamically align a camera to
 ### ⚙️ [xv6 OS Assignments](https://github.com/Kjshinde/xv6_os_assignments)
 Solutions to advanced OS assignments implemented in xv6 — covering process scheduling, memory management, and system calls in Assembly and C.
 
-### 📦 [Edge-Federated-Node](https://github.com/Kjshinde/IoT-FedAggregator)
+### 📦 [IoT-FedAggregator](https://github.com/Kjshinde/IoT-FedAggregator)
 Decentralized machine learning system enabling local model training and secure central aggregation across edge nodes.
 
 ---
