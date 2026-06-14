@@ -17,7 +17,7 @@ Contributing to **SST (Secure Swarm Toolkit)** — an award-winning research pro
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 
 ### 🖥️ [ME-learning_Embedded](https://github.com/Kjshinde/ME-learning_Embedded) *(Personal Project)*
-Learning embedded systems from scratch by simulating two different hardware targets using **QEMU**. Exploring bare-metal programming, hardware abstraction, and low-level system behavior — no physical hardware required.
+Exploring bare-metal programming across hardware targets using **QEMU**. Developing hardware abstraction layers and investigating low-level system behavior — no physical hardware required.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat)
@@ -45,7 +45,7 @@ A person-tracking rig that uses computer vision to dynamically align a camera to
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### ⚙️ [xv6 OS Assignments](https://github.com/Kjshinde/xv6_os_assignments)
+### 💻 [xv6 OS Assignments](https://github.com/Kjshinde/xv6_os_assignments)
 Solutions to advanced OS assignments implemented in xv6 — covering process scheduling, memory management, and system calls in Assembly and C.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -65,10 +65,30 @@ Decentralized machine learning system enabling local model training and secure c
 
 ---
 
+---
+
+## 🔬 Simulation Experience
+
+### 🏢 [datacenter-server-model](https://github.com/Kjshinde/datacenter-server-model)
+A physics-based simulation framework for modeling AI data center server racks. Simulates power consumption, thermal equilibrium (Junction temperature solving), and compute performance of CPUs and GPUs. Implemented independently in both MATLAB/Simulink and Python.
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### ⚙️ [Comp_arch_cuda_sim](https://github.com/Kjshinde/Comp_arch_cuda_sim)
+Implemented the LRU Insertion Promotion Vector (IPV) cache replacement policy within the **gem5** simulator architecture. Additionally, built a custom deep learning framework from scratch by writing custom **CUDA** C++ kernels for forward/backward passes and bridging them to Python.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![gem5](https://img.shields.io/badge/gem5-333333?style=flat&logo=linux&logoColor=white)
+
 ## 📫 Get in Touch
 📬 **kjshinde2000@gmail.com**
+
 Feel free to reach out if you want to collaborate on robotics, embedded systems, or OS-level projects!
 
 ---
 
-*Currently: 💭 Building things (and occasionally sleeping)*
+*Open to embedded systems & systems software roles — let's build something.*
