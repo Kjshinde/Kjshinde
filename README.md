@@ -45,7 +45,7 @@ A person-tracking rig that uses computer vision to dynamically align a camera to
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### 💻 [xv6 OS Assignments](https://github.com/Kjshinde/xv6_os_assignments)
+### 💻 [Custome xv6 OS](https://github.com/Kjshinde/xv6_os_assignments)
 Solutions to advanced OS assignments implemented in xv6 — covering process scheduling, memory management, and system calls in Assembly and C.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
