@@ -1,5 +1,4 @@
 # Hey, I'm Krutyanjay Shinde 👋
-# Hey, I'm Krutyanjay Shinde 👋
 I build at the intersection of embedded systems, robotics, and operating systems — firmware to kernel, bare-metal to distributed. M.S. in Computer Engineering from ASU, open source contributor to [iotauth](https://github.com/iotauth), and always happiest close to the metal.
 
 ---
