@@ -65,8 +65,8 @@ Decentralized machine learning system enabling local model training and secure c
 
 ---
 
-
 ## 📫 Get in Touch
+📬 **kjshinde2000@gmail.com**
 Feel free to reach out if you want to collaborate on robotics, embedded systems, or OS-level projects!
 
 ---
